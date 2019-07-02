@@ -448,6 +448,12 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-label__text { color: #e6e6e6; }
 
+.c-message_kit__background { color: #e6e6e6 !important; }
+
+.c-message__sender a { color: #e6e6e6 !important; }
+
+.c-message_kit__text { color: #e6e6e6 !important; }
+
 .c-date_picker__dropdown { background-color: #363636; }
 
 .c-calendar_view_header__stepper_btn:disabled, .c-calendar_view_header__title_btn:disabled { color: #949494; }
@@ -1396,6 +1402,14 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 .p-message_pane__limited_history_foreword { background: #363636; background-image: none; color: #e6e6e6; }
 
 .p-message_pane__unread_banner__banner { background: #545454; text-shadow: 0 1px rgba(0, 0, 0, 0.15); }
+
+.p-threads_view { background: #222; }
+
+.c-message_kit__background { background: #1f1f1f; }
+
+.p-threads_view__default_background { background: #1f1f1f; }
+
+.p_threads_view_load_older_button { background: #1f1f1f; }
 
 .messages_banner { color: #e6e6e6; text-shadow: 0 1px rgba(0, 0, 0, 0.15); }
 
