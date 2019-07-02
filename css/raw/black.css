@@ -448,6 +448,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-label__text { color: #e6e6e6; }
 
+.c-link a { color: #e6e6e6; }
+
 .c-message_kit__background { color: #e6e6e6 !important; }
 
 .c-message__sender a { color: #e6e6e6 !important; }
@@ -1408,6 +1410,8 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 .c-message_kit__background { background: #1f1f1f; }
 
 .p-threads_view__default_background { background: #1f1f1f; }
+
+.p-threads_footer__input .p-message_input_field { background: #000 };
 
 .p_threads_view_load_older_button { background: #1f1f1f; }
 
