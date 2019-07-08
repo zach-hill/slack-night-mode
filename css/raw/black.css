@@ -2053,7 +2053,7 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 .p-file_details__meta_container .c-file__action_button { color: #fff; }
 
-.c-pillow_file__description { color: #e6e6e6; }
+/* .c-pillow_file__description { color: #e6e6e6; } */
 
 .p-file_list, .p-file_list__filters { background: #363636; }
 
