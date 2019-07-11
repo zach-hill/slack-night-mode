@@ -4206,3 +4206,5 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 .p-threads_flexpane__header_channel_name { color: #e6e6e6 !important; }
 
 .p-threads_view_root, .p-threads_view_reply, .p-threads_view__footer { border: 1px solid;  }
+
+.close_flexpane { color: white; }
